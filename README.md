@@ -1,5 +1,7 @@
 # Countdown Timer
-A portable countdown timer powered by USB port. Use Arduino to control it.
+A portable countdown timer powered by USB port. Use Arduino to control it.  
+  
+![Preview](UI.PNG)
 # Power Supply
 A standard USB type-A port that supply voltage with 5V and current more than 1A.  
 Such as a common mobile power.
